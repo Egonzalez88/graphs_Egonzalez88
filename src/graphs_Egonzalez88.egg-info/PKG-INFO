@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: graphs_Egonzalez88
+Version: 0.1.0
+Summary: Graph algorithms library including Dijkstra’s shortest path.
+Author: Egonzalez88
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Graph Algorithms Library
+
+This library implements Dijkstra's shortest path algorithm in Python.
+It is designed as a reusable Python package for working with graphs.
+
+## Installation
+
+pip install graphs_Egonzalez88

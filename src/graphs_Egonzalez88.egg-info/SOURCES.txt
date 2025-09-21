@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/graphs_Egonzalez88/__init__.py
+src/graphs_Egonzalez88/heapq.py
+src/graphs_Egonzalez88/sp.py
+src/graphs_Egonzalez88.egg-info/PKG-INFO
+src/graphs_Egonzalez88.egg-info/SOURCES.txt
+src/graphs_Egonzalez88.egg-info/dependency_links.txt
+src/graphs_Egonzalez88.egg-info/top_level.txt

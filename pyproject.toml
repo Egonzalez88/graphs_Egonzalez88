@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphs_Egonzalez88"
+version = "0.1.0"
+description = "Graph algorithms library including Dijkstra’s shortest path."
+authors = [{name = "Egonzalez88"}]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
